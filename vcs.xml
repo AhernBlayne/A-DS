@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/AhernBlayne/A-DS" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/AhernBlayne/A-DS.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\blayn\IdeaProjects" />
