@@ -9,21 +9,21 @@ public class Deck {
     public Deck(){
         for(int y =0; y<=4 -1; y++) {
             if(y ==0) {
-                for (int i = 1; i < 13; i++) {
+                for (int i = 1; i <= 13; i++) {
                     Card c = new Card(i, face[y]);
                     Cards.add(c);
 
                 }
             }
             if(y == 1){
-                for (int i = 1; i < 13; i++) {
+                for (int i = 1; i <= 13; i++) {
                     Card c = new Card(i, face[y]);
                     Cards.add(c);
 
                 }
             }
             if(y == 2){
-                for (int i = 1; i < 13 ; i++) {
+                for (int i = 1; i <= 13 ; i++) {
                     Card c = new Card(i, face[y]);
                     Cards.add(c);
 
@@ -31,7 +31,7 @@ public class Deck {
 
             }
             if(y == 3){
-                for (int i = 1; i < 13 ; i++) {
+                for (int i = 1; i <= 13 ; i++) {
                     Card c = new Card(i, face[y]);
                     Cards.add(c);
 
