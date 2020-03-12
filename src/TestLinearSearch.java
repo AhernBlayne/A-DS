@@ -1,4 +1,3 @@
-import javax.sound.sampled.Line;
 
 public class TestLinearSearch {
     public static void main(String args []){
